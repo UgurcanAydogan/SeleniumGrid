@@ -53,12 +53,7 @@ public class Grid04 {
     }
 
 
-    git init
-    git add .
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin https://github.com/UgurcanAydogan/SeleniumGrid.git
-    git push -u origin main
+
 
 
 
